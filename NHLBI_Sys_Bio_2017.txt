@@ -1,0 +1,37 @@
+1	Shumway SD, Li Y, Xiong Y. 14-3-3beta binds to and negatively regulates the tuberous sclerosis complex 2 (TSC2) tumor suppressor gene product, tuberin. J Biol Chem 2003;278:2089–92. doi:10.1074/jbc.C200499200
+2	Komiya Y, Kurabe N, Katagiri K, et al. A Novel Binding Factor of 14-3-3beta Functions as a Transcriptional Repressor and Promotes Anchorage-independent Growth, Tumorigenicity, and Metastasis. J Biol Chem 2008;283:18753–64. doi:10.1074/jbc.M802530200
+3	Xing H, Zhang S, Weinheimer C, et al. 14-3-3 proteins block apoptosis and differentially regulate MAPK cascades. EMBO J 2000;19:349–58. doi:10.1093/emboj/19.3.349
+4	Fan T, Li R, Todd NW, et al. Up-regulation of 14-3-3zeta in lung cancer and its implication as prognostic and therapeutic target. Cancer Res 2007;67:7901–6. doi:10.1158/0008-5472.CAN-07-0090
+5	Neal CL, Yao J, Yang W, et al. 14-3-3zeta overexpression defines high risk for breast cancer recurrence and promotes cancer cell survival. Cancer Res 2009;69:3425–32. doi:10.1158/0008-5472.CAN-08-2765
+6	Nishimura Y, Komatsu S, Ichikawa D, et al. Overexpression of YWHAZ relates to tumor cell proliferation and malignant outcome of gastric carcinoma. Br J Cancer 2013;108:1324–31. doi:10.1038/bjc.2013.65
+7	Klemm C, Dommisch H, Göke F, et al. Expression profiles for 14-3-3 zeta and CCL20 in pancreatic cancer and chronic pancreatitis. Pathol Res Pract 2014;210:335–41. doi:10.1016/j.prp.2014.01.001
+8	Schoenwaelder SM, Darbousset R, Cranmer SL, et al. 14-3-3ζ regulates the mitochondrial respiratory reserve linked to platelet phosphatidylserine exposure and procoagulant function. Nat Commun 2016;7:12862. doi:10.1038/ncomms12862
+9	Lim GE, Piske M, Lulo JE, et al. Ywhaz/14-3-3ζ Deletion Improves Glucose Tolerance Through a GLP-1-Dependent Mechanism. Endocrinology 2016;157:2649–59. doi:10.1210/en.2016-1016
+10	Humpel C, Benke T. Cerebrospinal Fluid Levels of 14-3-3 Gamma: What Does It Tell Us About Sporadic Creutzfeldt-Jakob Disease? Pharmacology 2017;100:243–5. doi:10.1159/000479115
+11	Sehgal L, Mukhopadhyay A, Rajan A, et al. 14-3-3γ-Mediated transport of plakoglobin to the cell border is required for the initiation of desmosome assembly in vitro and in vivo. J Cell Sci 2014;127:2174–88. doi:10.1242/jcs.125807
+12	Toyo-oka K, Shionoya A, Gambello MJ, et al. 14-3-3ε is important for neuronal migration by binding to NUDEL: a molecular explanation for Miller–Dieker syndrome. Nat Genet 2003;34:274–85. doi:10.1038/ng1169
+13	Ikeda M, Hikita T, Taya S, et al. Identification of YWHAE, a gene encoding 14-3-3epsilon, as a possible susceptibility gene for schizophrenia. Hum Mol Genet 2008;17:3212–22. doi:10.1093/hmg/ddn217
+14	Kagan A, Melman YF, Krumerman A, et al. 14-3-3 amplifies and prolongs adrenergic stimulation of HERG K+ channel activity. EMBO J 2002;21:1889–98. doi:10.1093/emboj/21.8.1889
+15	Choe C, Schulze-Bahr E, Neu A, et al. C-terminal HERG (LQT2) mutations disrupt IKr channel regulation through 14-3-3epsilon. Hum Mol Genet 2006;15:2888–902. doi:10.1093/hmg/ddl230
+16	Gittenberger-de Groot AC, Hoppenbrouwers T, Miquerol L, et al. 14-3-3epsilon controls multiple developmental processes in the mouse heart. Dev Dyn 2016;245:1107–23. doi:10.1002/dvdy.24440
+17	Wanzel M, Kleine-Kohlbrecher D, Herold S, et al. Akt and 14-3-3η regulate Miz1 to control cell-cycle arrest after DNA damage. Nat Cell Biol 2005;7:30–41. doi:10.1038/ncb1202
+18	Sreedhar R, Arumugam S, Thandavarayan RA, et al. Depletion of cardiac 14-3-3η protein adversely influences pathologic cardiac remodeling during myocardial infarction after coronary artery ligation in mice. Int J Cardiol 2016;202:146–53. doi:10.1016/j.ijcard.2015.08.142
+19	Li N, Wang H, Jing F, et al. Overexpression of 14-3-3θ promotes tumor metastasis and indicates poor prognosis in breast carcinoma. Oncotarget 2010;1:249–57. doi:10.18632/oncotarget.1502
+20	Kataki A, Alevizos L, Lazaris A, et al. 14-3-3 gene expression exerts isoform-dependent functions in sinonasal pathophysiology. Pathol - Res Pract 2014;210:105–10. doi:10.1016/j.prp.2013.10.006
+21	Scheibner KA, Teaboldt B, Hauer MC, et al. MiR-27a Functions as a Tumor Suppressor in Acute Leukemia by Regulating 14-3-3θ. PLoS One 2012;7:e50895. doi:10.1371/journal.pone.0050895
+22	Liu Y, Tian R, Li Y, et al. The expression of seven 14-3-3 isoforms in human meningioma. Brain Res 2010;1336:98–102. doi:10.1016/j.brainres.2010.04.009
+23	Nomura M, Shimizu S, Sugiyama T, et al. 14-3-3 Interacts Directly with and Negatively Regulates Pro-apoptotic Bax. J Biol Chem 2003;278:2058–65. doi:10.1074/jbc.M207880200
+24	Zha J, Harada H, Yang E, et al. Serine Phosphorylation of Death Agonist BAD in Response to Survival Factor Results in Binding to 14-3-3 Not BCL-XL. Cell 1996;87:619–28. doi:10.1016/S0092-8674(00)81382-3
+25	Obsil T, Ghirlando R, Anderson DE, et al. Two 14-3-3 Binding Motifs Are Required for Stable Association of Forkhead Transcription Factor FOXO4 with 14-3-3 Proteins and Inhibition of DNA Binding. Biochemistry 2003;42:15264–72. doi:10.1021/bi0352724
+26	Qing Y, Sun L, Yang C, et al. Dysregulated 14-3-3 Family in Peripheral Blood Leukocytes of Patients with Schizophrenia. Sci Rep 2016;6:23791. doi:10.1038/srep23791
+27	Park J-H, Jang HR, Lee IY, et al. Amyotrophic lateral sclerosis-related mutant superoxide dismutase 1 aggregates inhibit 14-3-3-mediated cell survival by sequestration into the JUNQ compartment. Hum Mol Genet Published Online First: 28 June 2017. doi:10.1093/hmg/ddx250
+28	Bolton DL, Barnitz RA, Sakai K, et al. 14-3-3 theta binding to cell cycle regulatory factors is enhanced by HIV-1 Vpr. Biol Direct 2008;3:17. doi:10.1186/1745-6150-3-17
+29	Lau JMC, Jin X, Ren J, et al. The 14-3-3 Phosphoserine-Binding Protein Is Required for Cardiomyocyte Survival. Mol Cell Biol 2007;27:1455–66. doi:10.1128/MCB.01369-06
+30	Leffers H, Madsen P, Rasmussen HH, et al. Molecular Cloning and Expression of the Transformation Sensitive Epithelial Marker Stratifin. J Mol Biol 1993;231:982–98. doi:10.1006/jmbi.1993.1346
+31	Chan TA, Hermeking H, Lengauer C, et al. 14-3-3Sigma is required to prevent mitotic catastrophe after DNA damage. Nature 1999;401:616–20. doi:10.1038/44188
+32	Benzinger A, Muster N, Koch HB, et al. Targeted Proteomic Analysis of 14-3-3ς, a p53 Effector Commonly Silenced in Cancer. Mol Cell Proteomics 2005;4:785–95. doi:10.1074/mcp.M500021-MCP200
+33	Shiba-Ishii A, Kim Y, Shiozawa T, et al. Stratifin accelerates progression of lung adenocarcinoma at an early stage. Mol Cancer 2015;14:142. doi:10.1186/s12943-015-0414-1
+34	Peevey JF, Seagle B-LL, Maniar KP, et al. Association of body mass index with ER, PR and 14-3-3σ expression in tumor and stroma of type I and type II endometrial carcinoma. Oncotarget Published Online First: 18 April 2017. doi:10.18632/oncotarget.17209
+35	Adachi H, Murakami Y, Tanaka H, et al. Increase of stratifin triggered by ultraviolet irradiation is possibly related to premature aging of human skin. Exp Dermatol 2014;23:32–6. doi:10.1111/exd.12390
+36	Su Y-W, Hao Z, Hirao A, et al. 14-3-3 regulates B-cell homeostasis through stabilization of FOXO1. Proc Natl Acad Sci 2011;108:1555–60. doi:10.1073/pnas.1017729108
+37	Lau E, Cao Q, Ng DCM, et al. A large dataset of protein dynamics in the mammalian heart proteome. Sci data 2016;3:160015. doi:10.1038/sdata.2016.15
